@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #a3a3a3;
+  font-size: 2rem;
+}
+li a {
+  margin-top: 50px;
+}
+.heading {
+  margin: 0 auto;
+  text-align: center;
+}
